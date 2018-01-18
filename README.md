@@ -1,4 +1,4 @@
 # master-project
-ongoing master project
 
-Code repository for master thesis
+
+Code repository for ongoing master's project
